@@ -28,7 +28,7 @@
         kup: k_up {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
-            bindings = <&kp K>, <&kp DOWN>;
+            bindings = <&kp K>, <&kp UP>;
             mods = <(MOD_RCTL|MOD_LCTL)>;
         };
         lright: l_right {
