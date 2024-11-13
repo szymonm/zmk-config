@@ -43,7 +43,7 @@
    &trans  &kp EXCL    &kp AT      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp PIPE    &kp F11                          &kp F12     &kp LBRK      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp RBKT  &kp MINUS    &kp F14
    &trans  &kp HASH    &kp DOLLAR  &kp LBKT          &kp RBKT           &kp GRAVE   &trans                           &trans      &kp LEFT      &kp DOWN          &kp UP             &kp RIGHT &kp PLUS     &kp F15
    &trans  &kp PRCNT   &kp CARET   &kp LPAR          &kp RPAR           &kp TILDE   &kp HOME &kp END          &trans &kp DELETE  &trans        &kp LPAR          &kp RPAR           &kp N3    &kp RET      &kp F16
-   &trans  &trans      &trans      &trans                    &trans                 &trans   &trans           &trans &kp RET         &trans                       &kp N0            &kp DOT   &kp RET      &trans
+   &trans  &trans      &trans      &trans                    &trans                 &trans   &trans           &trans &kp RET         &trans                      &kp N0             &kp DOT   &kp RET      &trans
             >;
         };
 
@@ -59,7 +59,7 @@
    &kp ESC &kp EXCL  &kp AT   &kp HASH &kp DLLR &kp PRCNT &trans               &trans &kp CARET &kp AMPS  &kp ASTRK &kp LPAR &kp RPAR  &kp DEL
    &trans  &kp UNDER &kp PLUS &kp LBRC &kp RBRC &kp PIPE  &trans               &trans &kp HOME  &kp PG_UP &kp PSCRN &kp UP   &kp GRAVE &kp TILDE
    &trans  &kp ESC   &kp LGUI &kp LPAR &kp RPAR &kp TILDE &trans &trans &trans &trans &kp END   &kp PG_DN &kp LEFT  &kp DOWN &kp RIGHT &kp RET
-   &trans  &trans    &trans   &mo 3         &trans        &mo 3  &trans &trans &trans        &trans       &trans    &trans   &trans    &trans
+   &trans  &trans    &trans   &trans         &trans        &trans  &trans &trans &trans        &trans       &trans    &trans   &trans    &trans
             >;
         };
     };
