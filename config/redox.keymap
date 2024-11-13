@@ -40,7 +40,7 @@
 // | CRTL  | ALT | GUI | LOWER |     GUI     | LOWER | SPACE   | --- | DEL  |  0  |    RAISE  | LEFT | DOWN | UP  | RIGHT |
             bindings = <
    &trans  &kp F1      &kp F2      &kp F3            &kp F4             &kp F5                                                   &kp F6        &kp F7            &kp F8             &kp F9    &kp F10      &kp F13
-   &trans  &kp EXCL    &kp AT      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp PIPE    &kp F11                          &kp F12     &kp LBRK      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp RBKT  &kp MINUS    &kp F14
+   &trans  &kp EXCL    &kp AT      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp PIPE    &kp F11                          &kp F12     &kp LBKT      &kp LEFT_BRACE    &kp RIGHT_BRACE    &kp RBKT  &kp MINUS    &kp F14
    &trans  &kp HASH    &kp DOLLAR  &kp LBKT          &kp RBKT           &kp GRAVE   &trans                           &trans      &kp LEFT      &kp DOWN          &kp UP             &kp RIGHT &kp PLUS     &kp F15
    &trans  &kp PRCNT   &kp CARET   &kp LPAR          &kp RPAR           &kp TILDE   &kp HOME &kp END          &trans &kp DELETE  &trans        &kp LPAR          &kp RPAR           &kp N3    &kp RET      &kp F16
    &trans  &trans      &trans      &trans                    &trans                 &trans   &trans           &trans &kp RET         &trans                      &kp N0             &kp DOT   &kp RET      &trans
