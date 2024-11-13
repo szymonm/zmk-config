@@ -25,7 +25,7 @@
             bindings = <&kp J>, <&kp DOWN>;
             mods = <(MOD_RCTL|MOD_LCTL)>;
         };
-        kdown: k_down {
+        kup: k_up {
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
             bindings = <&kp K>, <&kp DOWN>;
