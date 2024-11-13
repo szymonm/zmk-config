@@ -14,7 +14,7 @@
 
     behaviors {
         jdown: j_down {
-            compatible: "zmk,behavior-mod-morph";
+            compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
             bindings = <&kp J>, <&kp DOWN>;
             mods = <(MOD_RCTL|MOD_LCTL)>;
